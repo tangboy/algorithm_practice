@@ -98,4 +98,4 @@ class WordDictionary {
       
     private: 
     TrieTree tree;
-}
+};
